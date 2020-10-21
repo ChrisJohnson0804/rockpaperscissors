@@ -1,0 +1,7 @@
+#options {
+    display: flex;
+}
+
+#options *{
+    margin: 5px;
+}
